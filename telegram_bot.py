@@ -10,8 +10,8 @@ from telegram.ext import CommandHandler, MessageHandler, Filters
 from chatgpt import chatGPT
 
 
-token = "6244248997:AAHep-mAb6OCRfRuJzKY9sMuVpM_UvRtLcg"
-chat_id = "873681252"
+token = ""
+chat_id = ""
 bot = telegram.Bot(token)
 
 # Updater

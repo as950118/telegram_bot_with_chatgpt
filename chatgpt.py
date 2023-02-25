@@ -1,7 +1,7 @@
 import openai
 import argparse
 
-YOUR_API_KEY = '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'
+YOUR_API_KEY = ''
 
 def chatGPT(prompt, API_KEY=YOUR_API_KEY):
 
